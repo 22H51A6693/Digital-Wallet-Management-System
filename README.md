@@ -100,6 +100,4 @@ Thank you for checking out the Digital Wallet Management System. Feel free to co
 ## Connect with Me
 
 - [LinkedIn]((https://www.linkedin.com/in/anirudh-a-25b28a257/))
-- [GitHub]((https://github.com/AnirudhAravalli))
-
----
+- [GitHub](https://github.com/AnirudhAravalli)
