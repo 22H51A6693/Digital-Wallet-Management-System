@@ -82,3 +82,9 @@ Contributing to this project is straightforward, follow these steps:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Credits
+
+- **f(Y)_Solutions**: For providing the training module.
+- **Contributors**: 
+  - [Darshan S Kagi](https://github.com/DarshanKagi)
