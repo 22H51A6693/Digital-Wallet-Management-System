@@ -87,4 +87,19 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - **f(Y)_Solutions**: For providing the training module.
 - **Contributors**: 
-  - [Darshan S Kagi](https://github.com/DarshanKagi)
+  - [Anirudh Aravalli]((https://github.com/AnirudhAravalli))
+
+## Author
+
+Anirudh Aravalli - [anirudh.aravalli05@gmail.com](mailto:anirudh.aravalli05@gmail.com)
+
+## Conclusion
+
+Thank you for checking out the Digital Wallet Management System. Feel free to contribute and provide feedback!
+
+## Connect with Me
+
+- [LinkedIn]((https://www.linkedin.com/in/anirudh-a-25b28a257/))
+- [GitHub]((https://github.com/AnirudhAravalli))
+
+---
