@@ -1,5 +1,8 @@
 # Digital Wallet Management System
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## Project Description
 A digital wallet management system implemented in C++ that allows users to manage their wallet accounts, perform fund transfers, and view account balances. The system supports basic account operations and transactions.
 
@@ -9,7 +12,7 @@ A digital wallet management system implemented in C++ that allows users to manag
 - [How to Use the Project](#how-to-use-the-project)
 - [Include Tests](#include-tests)
 - [Screenshots/Media](#screenshotsmedia)
-- [Future Improvements](#future-improvements)
+- [Future](#future)
 - [How to Contribute to the Project](#how-to-contribute-to-the-project)
 - [License](#license)
 - [Credits](#credits)
@@ -50,9 +53,32 @@ After launching the application, you will be prompted to:
 3. **View User Balances**: Check the balance of any user by entering their user ID.
 
 ## Include Tests
-To test the system, you can manually input data as described in the How to Use the Project section
+This project currently does not contain automated tests. To test the system, you can manually input data as described in the [How to Use the Project](#how-to-use-the-project) section
 
 ## Screenshots/Media
-![Main Interface](path/to/main_interface.png)
+![[Digital Wallet Management System Screenshot](Result.png)]([https://github.com/DarshanKagi/Digital-Wallet-Management-System/blob/6fc023f1c2e5b1279b652cae672e118d30c63232/Result%20Picture.png](https://github.com/AnirudhAravalli/Digital-Wallet-Management-System/blob/main/Results.jpg))![Main Interface](Results.jpg)
 *Main interface of the Digital Wallet Management System showing user interactions.*
 
+## Future Improvements
+- **User Authentication**: Implement login functionality for added security.
+- **Transaction History**: Add a feature to view past transactions.
+- **Multi-Currency Support**: Allow transactions in different currencies.
+
+## How to Contribute to the Project
+
+Contributing to this project is straightforward, follow these steps:
+
+1. **Fork the Repository**: Create a personal fork of the repository. This is your own workspace where you can make changes without affecting the original project.
+
+2. **Create a New Branch**:
+   Use the following Git command to create a new branch for your features or fixes:
+   git checkout -b feature/new-feature
+
+3. **Make Changes**: Implement your changes or add new features in your branch. Make sure your changes are well-documented and follow the project's coding    standards.
+
+4. **Submit a Pull Request**:
+   After making your changes, push them to your fork and then submit a pull request to the original repository. Use the following commands:
+   git push origin feature/new-feature
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
