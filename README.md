@@ -26,13 +26,10 @@ A digital wallet management system implemented in C++ that allows users to manag
 - **CMake** (optional): For building with CMake.
 
 ## How to Install and Run the Project
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/DarshanKagi/Digital-Wallet-Management-System.git
 1. **Clone the Repository**:
    First, clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/Digital-Wallet-Management-System.git
+   git clone https://github.com/AnirudhAravalli/Digital-Wallet-Management-System.git
 
 2. **Navigate to the project directory:**
 
