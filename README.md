@@ -53,7 +53,7 @@ After launching the application, you will be prompted to:
 This project currently does not contain automated tests. To test the system, you can manually input data as described in the [How to Use the Project](#how-to-use-the-project) section
 
 ## Screenshots/Media
-![[Digital Wallet Management System Screenshot](Result.png)]([https://github.com/DarshanKagi/Digital-Wallet-Management-System/blob/6fc023f1c2e5b1279b652cae672e118d30c63232/Result%20Picture.png](https://github.com/AnirudhAravalli/Digital-Wallet-Management-System/blob/main/Results.jpg))![Main Interface](Results.jpg)
+![[Digital Wallet Management System Screenshot](Result.png)])![Main Interface](Results.jpg)
 *Main interface of the Digital Wallet Management System showing user interactions.*
 
 ## Future Improvements
