@@ -29,7 +29,7 @@ A digital wallet management system implemented in C++ that allows users to manag
 1. **Clone the Repository**:
    First, clone the repository to your local machine:
    ```sh
-   git clone https://github.com/AnirudhAravalli/Digital-Wallet-Management-System.git
+   git clone https://github.com/nallurisiddartha/Digital-Wallet-Management-System.git
 
 2. **Navigate to the project directory:**
 
@@ -84,11 +84,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - **f(Y)_Solutions**: For providing the training module.
 - **Contributors**: 
-  - [Anirudh Aravalli]((https://github.com/AnirudhAravalli))
+  - [Nalluri Siddartha chowdary]((https://github.com/NalluriSiddarthaChowdary))
 
 ## Author
 
-Anirudh Aravalli - [anirudh.aravalli05@gmail.com](mailto:anirudh.aravalli05@gmail.com)
+NalluriSiddartha - [nallurisiddhu4@gmail.com](mailto:nallurisiddhu4@gmail.com)
 
 ## Conclusion
 
@@ -96,5 +96,5 @@ Thank you for checking out the Digital Wallet Management System. Feel free to co
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anirudh-a-25b28a257/)
-- [GitHub](https://github.com/AnirudhAravalli)
+- [LinkedIn](https://www.linkedin.com/in/nalluri-siddartha-bb78b02bb)
+- [GitHub](https://github.com/NalluriSiddarthaChowdary)
