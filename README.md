@@ -1,100 +1,74 @@
 # Digital Wallet Management System
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+Welcome to the **Digital Wallet Management System**! This project is a comprehensive solution for managing digital wallets, developed entirely in C++. Our system aims to provide a secure, efficient, and user-friendly platform for handling digital transactions and wallet management.
 
-## Project Description
-A digital wallet management system implemented in C++ that allows users to manage their wallet accounts, perform fund transfers, and view account balances. The system supports basic account operations and transactions.
+## Features
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [How to Install and Run the Project](#how-to-install-and-run-the-project)
-- [How to Use the Project](#how-to-use-the-project)
-- [Include Tests](#include-tests)
-- [Screenshots/Media](#screenshotsmedia)
-- [Future](#future)
-- [How to Contribute to the Project](#how-to-contribute-to-the-project)
-- [License](#license)
-- [Credits](#credits)
-- [Author](#author)
-- [Conclusion](#conclusion)
-- [Connect with Me](#connect-with-me)
+- **Secure Transactions**: Ensures all transactions are encrypted and secure.
+- **User Management**: Create, update, and delete user accounts with ease.
+- **Wallet Management**: Manage multiple wallets for different currencies.
+- **Transaction History**: Keep track of all your past transactions.
+- **Multi-Currency Support**: Supports various digital currencies.
 
-## Prerequisites
-- **C++ Compiler**: GCC or Clang.
-- **C++ Standard Library**: Typically included with the compiler.
-- **CMake** (optional): For building with CMake.
+## Getting Started
 
-## How to Install and Run the Project
-1. **Clone the Repository**:
-   First, clone the repository to your local machine:
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- A C++ compiler (e.g., GCC, Clang)
+- CMake
+
+### Installation
+
+1. **Clone the repository**
    ```sh
-   git clone https://github.com/nallurisiddartha/Digital-Wallet-Management-System.git
-
-2. **Navigate to the project directory:**
-
+   git clone https://github.com/22H51A6693/Digital-Wallet-Management-System.git
    cd Digital-Wallet-Management-System
+   ```
 
-3. **Compile the project:**
-   make all
+2. **Build the project**
+   ```sh
+   mkdir build
+   cd build
+   cmake ..
+   make
+   ```
 
-4. **Run the application:**
+3. **Run the executable**
+   ```sh
+   ./DigitalWalletManagementSystem
+   ```
 
-   ./wallet_manager
+## Usage
 
+Once you have the system up and running, you can start managing your digital wallets. Here are some basic operations you can perform:
 
-## How to Use the Project
-After launching the application, you will be prompted to:
-1. **Add Users**: Enter user IDs and balances.
-2. **Transfer Funds**: Specify the sender, receiver, and amount.
-3. **View User Balances**: Check the balance of any user by entering their user ID.
+- **Create a new wallet**
+- **Add funds to a wallet**
+- **Transfer funds between wallets**
+- **View transaction history**
+- **Manage user accounts**
 
-## Include Tests
-This project currently does not contain automated tests. To test the system, you can manually input data as described in the [How to Use the Project](#how-to-use-the-project) section
+## Contributing
 
-## Screenshots/Media
-![Main Interface](Results.jpg)
-*Main interface of the Digital Wallet Management System showing user interactions.*
+We welcome contributions from the community! If you would like to contribute to the project, please follow these steps:
 
-## Future Improvements
-- **User Authentication**: Implement login functionality for added security.
-- **Transaction History**: Add a feature to view past transactions.
-- **Multi-Currency Support**: Allow transactions in different currencies.
-
-## How to Contribute to the Project
-
-Contributing to this project is straightforward, follow these steps:
-
-1. **Fork the Repository**: Create a personal fork of the repository. This is your own workspace where you can make changes without affecting the original project.
-
-2. **Create a New Branch**:
-   Use the following Git command to create a new branch for your features or fixes:
-   git checkout -b feature/new-feature
-
-3. **Make Changes**: Implement your changes or add new features in your branch. Make sure your changes are well-documented and follow the project's coding    standards.
-
-4. **Submit a Pull Request**:
-   After making your changes, push them to your fork and then submit a pull request to the original repository. Use the following commands:
-   git push origin feature/new-feature
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Credits
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-- **f(Y)_Solutions**: For providing the training module.
-- **Contributors**: 
-  - [Nalluri Siddartha chowdary]((https://github.com/NalluriSiddarthaChowdary))
+## Contact
 
-## Author
+If you have any questions or suggestions, feel free to reach out:
 
-NalluriSiddartha - [nallurisiddhu4@gmail.com](mailto:nallurisiddhu4@gmail.com)
+- **Email**: your-harshithareddy9859@gmail.com
+- **GitHub**: [22H51A6693](https://github.com/22H51A6693)
 
-## Conclusion
-
-Thank you for checking out the Digital Wallet Management System. Feel free to contribute and provide feedback!
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/nalluri-siddartha-bb78b02bb)
-- [GitHub](https://github.com/NalluriSiddarthaChowdary)
+Thank you for using the Digital Wallet Management System! We hope it meets all your digital wallet needs.
